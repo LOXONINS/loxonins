@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="./images/sample_dog4-circle.png" width="200"　alt="サモエド"/>
-  <h1>common-member</h1>
+  <h1>loxonins</h1>
 </div>
 
 ## My Skills
@@ -17,10 +17,10 @@
 ## Status
 
 <a href="https://git.io/streak-stats">
-  <img align="left" src="https://streak-stats.demolab.com?user=common-member&theme=github-dark-dimmed&border_radius=10&date_format=%5BY.%5Dn.j" />
+  <img align="left" src="https://streak-stats.demolab.com?user=loxonins&theme=github-dark-dimmed&border_radius=10&date_format=%5BY.%5Dn.j" />
 </a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=common-member&layout=compact&theme=github_dark_dimmed" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxonins&layout=compact&theme=github_dark_dimmed" />
 </a>
 
 
