@@ -24,9 +24,9 @@
 </a>
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=common-member&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loxonins&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=common-member&theme=dark&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=loxonins&theme=dark&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake-dark.svg">
@@ -34,11 +34,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--![common-member's GitHub stats](https://github-readme-stats.vercel.app/api?username=common-member&show_icons=true&theme=github_dark_dimmed=)
+<!--![loxonins's GitHub stats](https://github-readme-stats.vercel.app/api?username=loxonins&show_icons=true&theme=github_dark_dimmed=)
 -->
 
 <!--
-**common-member/common-member** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**loxonins/loxonins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
