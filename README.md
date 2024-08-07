@@ -29,9 +29,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=loxonins&theme=dark&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/potatoman-dev/potatoman-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loxonins/loxonins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loxonins/loxonins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/loxonins/loxonins/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--![loxonins's GitHub stats](https://github-readme-stats.vercel.app/api?username=loxonins&show_icons=true&theme=github_dark_dimmed=)
