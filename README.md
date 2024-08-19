@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="loxonins/.github/workflows/195K18io_400x400.jpg" width="200"/>
+  <img src=".github/workflows/195K18io_400x400.jpg" width="200"/>
   <h1>loxonins</h1>
 </div>
 
