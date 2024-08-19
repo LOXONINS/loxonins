@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./images/sample_dog4-circle.png" width="200"　alt="サモエド"/>
+  <img src="loxonins/.github/workflows/195K18io_400x400.jpg" width="200"　alt="大森アイコン"/>
   <h1>loxonins</h1>
 </div>
 
